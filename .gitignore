@@ -1,0 +1,7 @@
+node_modules/
+backend/downloads/
+backend/bin/yt-dlp*
+backend/bin/ffmpeg*
+backend/bin/ffprobe*
+.env
+.DS_Store
